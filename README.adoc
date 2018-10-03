@@ -30,6 +30,7 @@ Convert the AsciiDoc to HTML5 by invoking the 'asciidoctor' goal:
 Open the file _build/asciidoc/html5/index.html_  in your browser to see the generated HTML file.
 
 == TODO
+==
 
 - [x] configure travis build
 - [x] configure github + gradle + travis to publish on gh-pages branches
